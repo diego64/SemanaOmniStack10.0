@@ -1,0 +1,29 @@
+backend
+
+yarn init -y
+yarn add express 
+yarn add nodemon -D
+yarn add mongoose
+yarn add axios
+yarn add cors
+yarn add socket.io
+
+frontend
+
+yarn create react-app fronend
+yarn add axios
+
+moblie
+
+yarn global add expo-cli
+expo init moblie
+yarn add react-navigation
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context (Para quem usa expo)
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context (Para quem roda direto a aplicação)
+yarn add react-navigation-stack
+yarn add @react-native-community/masked-view
+expo install react-native-maps
+expo install expo-location
+expo install react-native-webview
+yarn add axios
+yarn add socket.io-client

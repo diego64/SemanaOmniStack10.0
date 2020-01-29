@@ -8,10 +8,10 @@ Sistema foi desenvolvido para localizar desenvolvedores próximos de acordo com 
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-  Node.js
-  React
-  React Native
-  Expo
+- [x] Node.js
+- [x] React
+- [x] React Native
+- [x] Expo
 
 ## Funcionalidades adcionandas 
 

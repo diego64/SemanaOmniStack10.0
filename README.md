@@ -2,14 +2,18 @@
 
 ## Informações do sistema
 
-Sistema foi desenvolvido para localizar desenvolvedores de acordo com a tecnologia cadastrada
+Sistema foi desenvolvido para localizar desenvolvedores próximos de acordo com a tecnologia cadastrada
 
-## Desenvolvimento do sistema 
+## Tecnologias ultilizadas no sistema  
 
-O sistema é composto por back-end (Node.js), front-end (React) e moblie (React-Native).
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+  Node.js
+  React
+  React Native
+  Expo
 
 ## Funcionalidades adcionandas 
-
 
 Na aplicação Web:
 

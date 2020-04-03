@@ -1,5 +1,5 @@
 <h4 align="center">
-  🔥 SemanaOmniStack10.0
+  🔥 SemanaOmniStack10.0 (Dev Radar)
 </h4>
 
 <p align="center">
@@ -30,7 +30,7 @@ Sistema foi desenvolvido para localizar desenvolvedores de acordo com a tecnolog
 
 - Adição do botão editar um desenvolvedor ;
 - Adição do botão excluir um desenvolvedor ;
-- Adição de um formulário para edição dos dados;w;
+- Adição de um formulário para edição dos dados;
 
 ## 🎥 Referência 
 
